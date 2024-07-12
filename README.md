@@ -1,1 +1,2 @@
 # sqlite
+I learned the basics of using SQLite, such as how to make a new database, create tables, and do basic tasks like adding, reading, updating, and deleting data with SQL. The hands-on practice helped me understand SQL better. One challenge I faced was choosing the right data types for each column and handling possible SQL errors. This experience gave me a good foundation for more advanced SQL and database tasks.
